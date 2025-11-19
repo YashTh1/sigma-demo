@@ -2,7 +2,8 @@
 This is a demo for git &amp; github class.
 
 # Teacher 
-Shradha Khapra
+Shradha Khapra.
 
 # Student
-Sigma Student
+Sigma Student.
+
